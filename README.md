@@ -1,3 +1,3 @@
 how are you 
 <br>
-author - Vinay Bosamiya
+author - Vinayak Bosamiya
